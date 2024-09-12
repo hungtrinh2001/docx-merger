@@ -1,6 +1,6 @@
 {
-  "name": "@scholarcy/docx-merger",
-  "version": "0.2.0",
+  "name": "@hungtrinh2001/docx-merger",
+  "version": "0.0.1",
   "license": "Apache-2.0",
   "description": "Javascript Library for Merging Docx file in NodeJS and Browser Environment.",
   "main": "dist/index.cjs.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/scholarcy/docx-merger.git"
+    "url": "https://github.com/hungtrinh2001/docx-merger.git"
   },
   "files": [
     "dist",
@@ -29,15 +29,15 @@
     "docx merge",
     "microsoft word"
   ],
-  "author": "Scholarcy Developers <developers@scholarcy.com>",
+  "author": "Hung Trinh <killdate123456@gmail.com>",
   "dependencies": {
     "@xmldom/xmldom": "^0.8.6",
     "jszip": "^3.10.1"
   },
   "bugs": {
-    "url": "https://github.com/scholarcy/docx-merger/issues"
+    "url": "https://github.com/hungtrinh2001/docx-merger/issues"
   },
-  "homepage": "https://github.com/scholarcy/docx-merger#readme",
+  "homepage": "https://github.com/hungtrinh2001/docx-merger#readme",
   "devDependencies": {
     "esbuild": "^0.16.5",
     "rimraf": "^2.7.1"
